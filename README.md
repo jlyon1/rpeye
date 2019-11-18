@@ -19,12 +19,12 @@ In addition to this issue, several RPI domains have no https certifications, or 
 - https://union.rpi.edu/
 - https://everydaymatters.rpi.edu/
 
-## Sites without https
+## Sites without HTTPS
 
-- http://finance.rpi.edu/update/setup.do (prod5.server.rpi.edu expired on 4/‎21/‎2017)
+- http://finance.rpi.edu/update/setup.do (prod5.server.rpi.edu expired on 4/21/2017)
 - http://www.linac.rpi.edu/ (never configured)
 - http://scnarc.rpi.edu/ (never configured)
-https://tw.rpi.edu/ (mixed resourced)
+- https://tw.rpi.edu/ (mixed resourced)
 - http://www.nest.rpi.edu/ (never configured)
 - http://www.dsrc.rpi.edu/ (never configured)
 - http://www.hass.rpi.edu/ (never configured)
@@ -35,11 +35,9 @@ https://tw.rpi.edu/ (mixed resourced)
 - http://rnc.rpi.edu/ (never configured)
 - http://www.transp.rpi.edu/ (never configured)
 - http://isgem.rpi.edu/ (never configured)
-- http://www.players.rpi.edu/ (union configuration error, reported to union)
 - http://csjarchive.cogsci.rpi.edu/ (never configured)
-https://si.hass.rpi.edu/ (never configured, should be using homepages)
+- https://si.hass.rpi.edu/ (never configured, should be using homepages)
 - http://march1.arch.rpi.edu/ (never configured)
-- http://w2sz.union.rpi.edu/ (never configured, club is able to fix this from cPanel)
 - http://bioart.arts.rpi.edu/ (never configured)
 
 ### Created By
