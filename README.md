@@ -1,6 +1,6 @@
 # RPEye Tracking List
 
-Rensselaer Polytechnic institute maintains a number of web services for it's students under various domains, with the primary domain being the `rpi.edu` domain. Many of these web applications contain links and make requests to third party analytics, tracking services, or in some cases Ad Slots. This occurs both on the RPI campus network and off. Some sites are maintained by the institute, and some by student clubs and organizations however all student produced sites exist under the `rpi.edu` domain. This is problematic given not only the extreme cost of attendance, but also the fact that a .edu domain is being used to profit and provide information to third parties.
+Rensselaer Polytechnic institute maintains a number of web services for it's students under various domains, with the primary domain being the `rpi.edu` domain. Many of these web applications contain links and make requests to third party analytics, tracking services, or in some cases Ad slots. This occurs both on the RPI campus network and off. Some sites are maintained by the institute, and some by student clubs and organizations however all student produced sites exist under the `rpi.edu` domain. This is problematic given not only the extreme cost of attendance, but also the fact that a .edu domain is being used to profit and provide information to third parties. Additionally, this can compromise the privacy of students and prospective students who either are looking to spend large sums of money here, or are currently spending money to attend.
 
 In addition to this issue, several RPI domains have no https certifications, or certs are inconsistent among several pages on the `rpi.edu` domain
 
@@ -9,11 +9,13 @@ In addition to this issue, several RPI domains have no https certifications, or 
 - Facebook
 - Google
 - YouVisit (Campus Virtual Tours)
+- YouTube
 
 ## Sites with tracking and analytics
 
 - https://rpiathletics.com/
 - https://rpi.edu/
+- https://admissions.union.rpi.edu
 - https://union.rpi.edu/
 - https://everydaymatters.rpi.edu/
 
