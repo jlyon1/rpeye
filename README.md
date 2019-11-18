@@ -15,7 +15,7 @@ In addition to this issue, several RPI domains have no https certifications, or 
 
 - https://rpiathletics.com/
 - https://rpi.edu/
-- https://admissions.union.rpi.edu
+- https://admissions.rpi.edu
 - https://union.rpi.edu/
 - https://everydaymatters.rpi.edu/
 
