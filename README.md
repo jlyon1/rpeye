@@ -19,7 +19,7 @@ In addition to this issue, several RPI domains have no https certifications, or 
 - https://union.rpi.edu/
 - https://everydaymatters.rpi.edu/
 
-## Sites without https
+## Sites without HTTPS
 
 - http://finance.rpi.edu/update/setup.do (prod5.server.rpi.edu expired on 4/21/2017)
 - http://www.linac.rpi.edu/ (never configured)
