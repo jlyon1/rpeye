@@ -9,7 +9,6 @@ In addition to this issue, several RPI domains have no https certifications, or 
 - Facebook
 - Google
 - YouVisit (Campus Virtual Tours)
-- 
 
 ## Sites with tracking and analytics
 
