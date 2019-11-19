@@ -19,6 +19,11 @@ In addition to this issue, several RPI domains have no https certifications, or 
 - https://union.rpi.edu/
 - https://everydaymatters.rpi.edu/
 
+## Partner Sites with tracking and analytics
+
+- https://www.imleagues.com/spa/member/player
+IMLeagues is particularly aggressive, asking a user to either whitelist the website to be exposed to heinous levels of targeted ads, pay a semester/year long user fee, or participate in a 6 to 8 question survey about the user's consumer proclivities (a recent survey was about pod-style coffee makers).
+
 ## Sites without HTTPS
 
 - http://finance.rpi.edu/update/setup.do (prod5.server.rpi.edu expired on 4/21/2017)
