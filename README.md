@@ -44,7 +44,3 @@ IMLeagues is particularly aggressive, asking a user to either whitelist the webs
 - https://si.hass.rpi.edu/ (never configured, should be using homepages)
 - http://march1.arch.rpi.edu/ (never configured)
 - http://bioart.arts.rpi.edu/ (never configured)
-
-### Created By
-
-Names go here
